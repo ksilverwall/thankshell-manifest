@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="ssh://git@bitbucket.org/ksilverwall" />
+  <remote name="origin" fetch="git://github.com/" />
   <default revision="master" remote="origin" />
 
-  <project path="api"          name="thankshell-api"          />
-  <project path="web-contents" name="thankshell-web-contents" />
-  <project path="web-gateway"  name="thankshell-web-gateway"  />
+  <project path="api"          name="ksilverwall/thankshell-api"          />
+  <project path="web-contents" name="ksilverwall/thankshell-web-contents" />
+  <project path="web-gateway"  name="ksilverwall/thankshell-web-gateway"  />
 </manifest>
