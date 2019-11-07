@@ -3,9 +3,8 @@
   <remote name="origin" fetch="git://github.com/" />
   <default revision="master" remote="origin" />
 
-  <project path="manifest"     name="ksilverwall/thankshell-manifest"     />
-  <project path="react"        name="ksilverwall/thankshell-react"        />
-  <project path="api"          name="ksilverwall/thankshell-api"          />
-  <project path="web-contents" name="ksilverwall/thankshell-web-contents" />
-  <project path="web-gateway"  name="ksilverwall/thankshell-web-gateway"  />
+  <project path="thankshell-manifest"     name="ksilverwall/thankshell-manifest"     />
+  <project path="thankshell-react"        name="ksilverwall/thankshell-react"        />
+  <project path="thankshell-api"          name="ksilverwall/thankshell-api"          />
+  <project path="thankshell-api-2"        name="ksilverwall/thankshell-api-2"        />
 </manifest>
