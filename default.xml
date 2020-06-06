@@ -6,6 +6,7 @@
     pushurl="git@github.com:ksilverwall"
     revision="master"
   />
+  <default revision="master" remote="origin" />
 
   <project path="thankshell-manifest"     name="thankshell-manifest"     />
   <project path="thankshell-react"        name="thankshell-react"        />
