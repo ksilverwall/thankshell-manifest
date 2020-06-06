@@ -9,6 +9,7 @@
   <default revision="master" remote="origin" />
 
   <project path="thankshell-manifest"     name="thankshell-manifest"     />
+  <project path="thankshell-platform"     name="thankshell-platform"     />
   <project path="thankshell-react"        name="thankshell-react"        />
   <project path="thankshell-api"          name="thankshell-api"          />
   <project path="thankshell-cicd"         name="thankshell-cicd"         />
