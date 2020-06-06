@@ -6,5 +6,4 @@
   <project path="thankshell-manifest"     name="ksilverwall/thankshell-manifest"     />
   <project path="thankshell-react"        name="ksilverwall/thankshell-react"        />
   <project path="thankshell-api"          name="ksilverwall/thankshell-api"          />
-  <project path="thankshell-api-2"        name="ksilverwall/thankshell-api-2"        />
 </manifest>
