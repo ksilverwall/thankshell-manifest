@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="git@github.com:ksilverwall/" />
-  <default revision="master" remote="origin" />
+  <remote
+    name="origin"
+    fetch="git://github.com/ksilverwall"
+    pushurl="git@github.com:ksilverwall"
+    revision="master"
+  />
 
   <project path="thankshell-manifest"     name="thankshell-manifest"     />
   <project path="thankshell-react"        name="thankshell-react"        />
