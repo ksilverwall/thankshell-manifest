@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="git://github.com/" />
+  <remote name="origin" fetch="git@github.com:ksilverwall/" />
   <default revision="master" remote="origin" />
 
-  <project path="thankshell-manifest"     name="ksilverwall/thankshell-manifest"     />
-  <project path="thankshell-react"        name="ksilverwall/thankshell-react"        />
-  <project path="thankshell-api"          name="ksilverwall/thankshell-api"          />
-  <project path="thankshell-cicd"         name="ksilverwall/thankshell-cicd"         />
+  <project path="thankshell-manifest"     name="thankshell-manifest"     />
+  <project path="thankshell-react"        name="thankshell-react"        />
+  <project path="thankshell-api"          name="thankshell-api"          />
+  <project path="thankshell-cicd"         name="thankshell-cicd"         />
 </manifest>
