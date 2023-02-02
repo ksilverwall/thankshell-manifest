@@ -2,7 +2,7 @@
 <manifest>
   <remote
     name="origin"
-    fetch="git://github.com/ksilverwall"
+    fetch="ssh://git@github.com/ksilverwall"
     pushurl="git@github.com:ksilverwall"
     revision="master"
   />
